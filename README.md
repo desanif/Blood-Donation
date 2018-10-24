@@ -24,4 +24,4 @@ searches, established blood banks where can go and easily donate blood.
 
 #DONATEBLOOD #GORED
 
-I welcome all to have a look at it and make changes if necessary. It is for public use with no copyright or license needed.
+I welcome all to have a look at it and make changes if necessary.
